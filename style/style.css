@@ -1,0 +1,17 @@
+nav{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+#hero{
+    height: 300px;
+    background-image: url("https://source.unsplash.com/1980x180?nature");
+    
+}
+.box{
+    height: 50px;
+    border-width: 1px;
+    border: red;
+    border-left: 10px solid;
+    background-color: rgba(225, green, blue, alpha);
+}
